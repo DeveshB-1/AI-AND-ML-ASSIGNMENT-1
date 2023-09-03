@@ -25,13 +25,23 @@ To get started with these exercises, follow these steps:
 
 Install the required dependencies (assuming you already have Python and Jupyter Notebook installed):
 
-2.pip install numpy jupyter
+2.
+
+   ```bash
+   pip install numpy jupyter
+
 Navigate to the repository directory:
 
-3.cd numpy-exercises
+3.
+
+   ```bash
+   cd numpy-exercises
 Launch Jupyter Notebook:
 
-4.jupyter notebook
+4.
+
+  ```bash
+   jupyter notebook
 Open the NumPy Exercises.ipynb notebook to start working on the exercises.
 
 ## Exercises
